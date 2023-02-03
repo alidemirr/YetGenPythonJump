@@ -1,0 +1,2 @@
+# YetGenPythonJump
+Python öğrenme maceram
