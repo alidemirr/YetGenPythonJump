@@ -1,0 +1,3 @@
+
+Ýsim ve Soyisim: ali, Yaþ: 20, Boy: 1.8, Kilo: 63.0, VKÝ: 19.44, Sýnýf: Normal kilolu
+Ýsim ve Soyisim: demir, Yaþ: 22, Boy: 1.7, Kilo: 80.0, VKÝ: 27.68, Sýnýf: Fazla kilolu
